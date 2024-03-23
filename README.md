@@ -1,1 +1,8 @@
-# lynhtran.github.io
+# Data Analytics 
+
+### Education 
+B.A Commerce, Bachelor 
+
+### Work Experience 
+
+### Projects
