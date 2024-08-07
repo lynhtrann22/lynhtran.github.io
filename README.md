@@ -1,12 +1,14 @@
-# Junior Data Analytics 
+# Enthusiastic Junior Data Analyst 
+
+### About me 
 
 ### Education 
 **Bachelor of Commerce, University of Sydney, Australia**
 -	Majors: Finance & Business Analytics (minor)
 - WAM: Distinction
 - Honours: Dalyell Scholar
-- Awards: International Student Award, People’s Choice Award chosen by ASG Group for an innovative solution. 
-- Finalist in Engage Asia Challenge 2022 (Access to Education in Cambodian)
+
+### Skills 
 
 ### Work Experience 
 **Quantitative Analyst, USYD Student Managed Investment Fund, Australia _(Feb 2023 – Aug 2023)_**
@@ -23,5 +25,12 @@ _(Product Development’s unit primary responsibilities are conducting deep rese
 - Successfully designed 1 process to standardise and improve internal processes within an organisation from scratch.
 - Internal Awards: Best Team Performance in November 2021, Best Team Manager in November 2021. 
 
-### Projects
+### Data Analytics Projects
+
+### Finance Projects 
+
+### Innovative Projects
+
+### Social Activities 
+
 
