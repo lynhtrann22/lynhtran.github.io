@@ -29,6 +29,7 @@
 - Built analytical dashboards to visualise core business KPIs, saving approximately 10 hours per week of manual reporting work.
   
 **Product Development Team Leader _(Aug 2021 – Feb 2022)_**
+
 _(Product Development’s unit primary responsibilities are conducting deep research to assist functional departments in improving and developing its internal process, market and customer)_
 - Conducted primary research (30+ interviews with students and Heads of Departments and 700+ survey responses) to collect data.
 - Analyzed data to prepare 4 research reports with recommendations for product improvement, contributing to a 362% acceleration in the number of children impacted by CyberKid Vietnam. [Reports](https://drive.google.com/drive/folders/1n5U5sVeYnMH9VbIXju6IELrWZIMZNVGq). 
