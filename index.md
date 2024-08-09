@@ -12,7 +12,6 @@ Cleaned raw data, analysed transaction and customer data, developed metrics, exa
 
 ### Manufacturing data analysis
 #### DELOITTE'S VIRTUAL EXPERIENCE | PYTHON & TABLEAU 
-[View Certificate]()
 
 Reconciled data, created a dashboard and advised a client on a data breach.
 
