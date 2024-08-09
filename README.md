@@ -13,8 +13,8 @@
 ## Experience 
 ### USYD Student Managed Investment Fund, _(Australia)_
 **Quantitative Analyst _(Feb 2023 – Aug 2023)_**
-- Developed and implemented portfolio metrics and quantitative models for screening, resulting in a trading performance improvement of 2%.
-- Implemented factor models and portfolio metrics to manage the portfolio’s risks.
+- Developed and implemented financial metrics for portfolio screening, resulting in a trading performance improvement of 2%.
+- Implemented factor models to manage the portfolio’s risks.
 - Actively managed, a high-conviction, long-only, Australian equities fund (SUM of $650k) with a team of 20 high-achieving students.
 - Performed stock selection and formulated investment thesis through qualitative and quantitative valuation, specialising in IT, Media, and Communication sectors. 
 
