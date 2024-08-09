@@ -46,7 +46,9 @@ _(Product Development’s unit primary responsibilities are conducting deep rese
 - Successfully organize 121 Internet Safety classes for Vietnamese students.
 
 ## Data Analytics Projects
-
+### GARCH model 
+**STATISTIC | MATLAB**
+Built GARCH model using **Monte Carlo Markov Chain and Variational Bayesian inference with a Gaussian posterior approximation**.
 
 ## Finance Projects 
 
