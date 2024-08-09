@@ -11,14 +11,14 @@
 ## Skills 
 
 ## Experience 
-### USYD Student Managed Investment Fund, _(Australia)_
+### USYD Student Managed Investment Fund, _Australia_
 **Quantitative Analyst _(Feb 2023 – Aug 2023)_**
 - Developed and implemented financial metrics for portfolio screening, resulting in a trading performance improvement of 2%.
 - Implemented factor models to manage the portfolio’s risks.
 - Actively managed, a high-conviction, long-only, Australian equities fund (SUM of $650k) with a team of 20 high-achieving students.
 - Performed stock selection and formulated investment thesis through qualitative and quantitative valuation, specialising in IT, Media, and Communication sectors. 
 
-### CyberKid Vietnam, _(Vietnam)_  
+### CyberKid Vietnam, _Vietnam_  
 **Innovation Executive _(May 2022 – Aug 2022)_**
 - Conducted a literature review and designed questionnaires for social national research projects on Vietnamese citizens’ digital skills.
 
@@ -45,12 +45,13 @@ _(Product Development’s unit primary responsibilities are conducting deep rese
 - Wrote and designed online marketing posts to recruit volunteers.
 - Successfully organize 121 Internet Safety classes for Vietnamese students.
 
-### Data Analytics Projects
+## Data Analytics Projects
 
-### Finance Projects 
 
-### Innovative Projects
+## Finance Projects 
 
-### Social Activities 
+## Innovative Projects
+
+## Social Activities 
 
 
