@@ -1,6 +1,6 @@
 ---
 title: PORTFOLIO
-layout: template
+layout: jekyll-theme-minimal
 filename: NAME OF THIS portfolio.md FILE HERE
 --- 
 
@@ -8,6 +8,7 @@ filename: NAME OF THIS portfolio.md FILE HERE
 ### Retail store analysis
 #### QUANTIUM'S VIRTUAL EXPERIENCE | PYTHON
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/retail_store)
+
 Cleaned raw data, analysed transaction and customer data, developed metrics, examined sales drivers, identified benchmark stores for conducting uplift testing on trial store layouts and performed statistical analysis to assess sales differences.
 
 ### Manufacturing data analysis
